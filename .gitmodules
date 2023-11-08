@@ -1,6 +1,6 @@
-[submodule "frontend"]
-	path = frontend
-	url = ./frontend
-[submodule "backend"]
-	path = backend
-	url = ./backend
+[submodule "fullstack-mern-todo-backend"]
+	path = fullstack-mern-todo-backend
+	url = git@github.com:jordin-marshall/fullstack-mern-todo-backend.git
+[submodule "fullstack-mern-todo-frontend"]
+	path = fullstack-mern-todo-frontend
+	url = git@github.com:jordin-marshall/fullstack-mern-todo-frontend.git
